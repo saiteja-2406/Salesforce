@@ -1,2 +1,2 @@
-# Salesforce
+# Machine learning basic
 project
